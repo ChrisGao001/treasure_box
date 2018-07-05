@@ -1,5 +1,6 @@
 '''
 Refer:https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-learning-model/
+put the weight to ~/.keras/models
 '''
 from os import listdir
 from pickle import dump
