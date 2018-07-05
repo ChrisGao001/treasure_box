@@ -1,4 +1,5 @@
 '''
+Desc: use vgg16 with trained weight to extract image feature
 Refer:https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-learning-model/
 put the weight to ~/.keras/models
 '''
